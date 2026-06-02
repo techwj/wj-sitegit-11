@@ -1,0 +1,59 @@
+{
+  "siteId": "picnic-bento-aesthetics",
+  "generatedAt": "2026-06-02T15:38:12.249469",
+  "categories": [
+    "beginner-picnic-bento-aesthetics",
+    "advanced-picnic-bento-aesthetics",
+    "tips-picnic-bento-aesthetics",
+    "history-picnic-bento-aesthetics",
+    "trending-picnic-bento-aesthetics",
+    "tutorials-picnic-bento-aesthetics"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-picnic-bento-aesthetics",
+      "category_name": "Beginner Picnic Bento Aesthetics"
+    },
+    {
+      "category_slug": "advanced-picnic-bento-aesthetics",
+      "category_name": "Advanced Picnic Bento Aesthetics"
+    },
+    {
+      "category_slug": "tips-picnic-bento-aesthetics",
+      "category_name": "Picnic Bento Aesthetics Tips"
+    },
+    {
+      "category_slug": "history-picnic-bento-aesthetics",
+      "category_name": "Picnic Bento Aesthetics History"
+    },
+    {
+      "category_slug": "trending-picnic-bento-aesthetics",
+      "category_name": "Trending Picnic Bento Aesthetics"
+    },
+    {
+      "category_slug": "tutorials-picnic-bento-aesthetics",
+      "category_name": "Picnic Bento Aesthetics Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "picnic-bento-aesthetics",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Picnic Bento Aesthetics Central",
+    "articles_per_row": 2
+  }
+}
